@@ -1,0 +1,12 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <AssemblyName>BrownBag.SpaceBakes.Console</AssemblyName>
+    <RootNamespace>BrownBag.SpaceBakes.Console</RootNamespace>
+  </PropertyGroup>
+
+</Project>
